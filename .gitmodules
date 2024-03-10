@@ -4,3 +4,6 @@
 [submodule "conversion-regex-to-delta-nfa"]
 	path = conversion-regex-to-delta-nfa
 	url = https://github.com/calcuttarain/conversion-regex-to-delta-nfa.git
+[submodule "verificare-cuvant-pentru-o-framatica-LFA"]
+	path = verificare-cuvant-pentru-o-framatica-LFA
+	url = https://github.com/calcuttarain/verificare-cuvant-pentru-o-framatica-LFA.git

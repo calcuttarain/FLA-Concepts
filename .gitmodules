@@ -1,0 +1,12 @@
+[submodule "finite-state-automaton"]
+	path = finite-state-automaton
+	url = https://github.com/calcuttarain/finite-state-automaton.git
+[submodule "Conversion-of-Regular-Expression-to-Finite-Automata"]
+	path = Conversion-of-Regular-Expression-to-Finite-Automata
+	url = https://github.com/calcuttarain/Conversion-of-Regular-Expression-to-Finite-Automata.git
+[submodule "verificare-cuvant-pentru-o-framatica-LFA"]
+	path = verificare-cuvant-pentru-o-framatica-LFA
+	url = https://github.com/calcuttarain/verificare-cuvant-pentru-o-framatica-LFA.git
+[submodule "conversion-regex-to-delta-nfa"]
+	path = conversion-regex-to-delta-nfa
+	url = https://github.com/calcuttarain/conversion-regex-to-delta-nfa.git

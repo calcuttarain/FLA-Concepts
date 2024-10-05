@@ -10,6 +10,6 @@ This project explores the concepts of formal languages and automata and includes
 - [Finite State Automaton](https://github.com/calcuttarain/finite-state-automaton)
   - A Python implementation of a deterministic finite automaton (DFA) and operations for manipulating it.
 
-- [Grammar Checking] (https://github.com/calcuttarain/verificare-cuvant-pentru-o-framatica-LFA)
+- [Grammar Checking](https://github.com/calcuttarain/verificare-cuvant-pentru-o-framatica-LFA)
   - A simple implementation in Python of an algorithm to check if a word belongs to a given grammar.
   
